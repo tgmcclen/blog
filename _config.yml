@@ -12,4 +12,4 @@ github_username:  tgmcclen
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+# highlighter: rouge
