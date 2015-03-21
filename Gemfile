@@ -8,4 +8,4 @@ gem 'github-pages', versions['github-pages']
 gem 'jekyll'
 gem 'rouge'
 
-ruby '2.1.5'
+ruby '2.0.0'
