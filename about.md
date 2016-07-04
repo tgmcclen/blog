@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Trent McClenahan and I'm passionate about the web and establishing high performing software delivery teams.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Most of my IT career has been in Sydney, but in 2012 my family and I made the change up to the amazing [Newcastle, Australia](http://www.visitnewcastle.com.au/) (see change&trade;).
