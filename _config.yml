@@ -10,4 +10,6 @@ github_username:  tgmcclen
 
 # Build settings
 markdown: kramdown
-emoji_dir: /images/emoji
+
+gems:
+  - jemoji
