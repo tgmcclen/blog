@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Making your Rails app work on Java"
 date:   2009-09-26 22:16:20
 categories: java jdbc jruby rails ruby software

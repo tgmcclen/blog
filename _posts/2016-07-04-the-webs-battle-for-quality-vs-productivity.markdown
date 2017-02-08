@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The web's battle for quality vs. productivity"
 date:   2016-07-03 22:16:20
 ---

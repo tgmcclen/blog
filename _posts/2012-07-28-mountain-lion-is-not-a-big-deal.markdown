@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Mountain Lion is not a big deal"
 date:   2012-07-28 22:16:20
 categories: apple mac osx software

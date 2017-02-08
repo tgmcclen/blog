@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Goodbye you good egg!"
 date:   2012-01-26 22:16:20
 categories: leadership

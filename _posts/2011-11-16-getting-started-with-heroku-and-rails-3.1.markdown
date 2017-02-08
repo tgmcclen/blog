@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Getting started with Heroku and Rails 3.1"
 date:   2011-11-16 22:16:20
 categories: cloud git heroku rails ruby software

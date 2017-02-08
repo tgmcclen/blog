@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Integration is all about collaboration"
 date:   2016-07-14 19:46:20
 ---
