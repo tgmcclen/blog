@@ -11,7 +11,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://passbyvalue.com" # the base hostname & protocol for your site
 twitter_username: tgmcclen
 github_username:  tgmcclen
-theme: leonids
+# Theme has been inlined because github pages only supports a handful: https://pages.github.com/themes/
+# theme: leonids
 
 #
 ###################################
