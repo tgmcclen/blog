@@ -19,7 +19,7 @@ github_username:  tgmcclen
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Australia/Sydney
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
